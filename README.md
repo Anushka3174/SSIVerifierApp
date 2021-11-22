@@ -28,9 +28,9 @@ This sample is to simulate a request of proof for web authentication
 1. Run with npm.
 `npm start`
 2. Open the web app on <a href="http://localhost:3000" target="_blank">localhost:3000</a>, and fill in the desired passport information.
-3. On the top left, you will see a login button. Click on it (assets/Verifier1.png)
+3. On the top left, you will see a login button. Click on it ![Login](assets/Verifier1.png)
 4. You will see a QR code on the screen. This QR code is asking you to present certain attributes that are required to login.
-(assets/Verifier2.png)
+![QR Code](assets/Verifier2.png)
 7. On the Trinsic Wallet mobile app, present the desired information.
 8. In the web app, the QR code modal will close, and the verified information will be displayed.
 ![verification accepted](assets/Verifier3.png)
